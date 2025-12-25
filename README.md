@@ -1,2 +1,5 @@
 # python-practice
-Python basic programs
+This repository contains:
+- Python basic programs
+- Loop programs
+- Function examples
